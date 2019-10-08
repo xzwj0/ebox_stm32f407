@@ -1,1 +1,3 @@
-sadesafdsfasdfafdsf
+git add
+git commit -m 
+git stutas
